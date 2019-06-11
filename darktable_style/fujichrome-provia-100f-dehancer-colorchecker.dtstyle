@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
 <info>
-  <name>mscc-fujichrome-provia-100f</name>
-  <description>fitted LUT style from mscc-fujichrome-provia-100f.pfm</description>
+  <name>fujichrome-provia-100f-dehancer-colorchecker</name>
+  <description>fitted LUT style from fujichrome-provia-100f-dehancer-colorchecker.pfm</description>
 </info>
 <style>
   <plugin>

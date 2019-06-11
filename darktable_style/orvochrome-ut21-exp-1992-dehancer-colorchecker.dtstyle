@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
 <info>
-  <name>mscc-orvochrome-ut21-exp-1992</name>
-  <description>fitted LUT style from mscc-orvochrome-ut21-exp-1992.pfm</description>
+  <name>orvochrome-ut21-exp-1992-dehancer-colorchecker</name>
+  <description>fitted LUT style from orvochrome-ut21-exp-1992-dehancer-colorchecker.pfm</description>
 </info>
 <style>
   <plugin>
