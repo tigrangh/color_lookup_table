@@ -6,7 +6,6 @@
 </info>
 <style>
   <plugin>
-  <plugin>
     <num>0</num>
     <module>2</module>
     <operation>colorchecker</operation>
